@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "Name": "Moto G5",
+      "Quantity": 2,
+      "Price": 13000,
+      "id": 1
+    },
+    {
+      "Name": "Racold geyser",
+      "Quantity": 3,
+      "Price": 6000,
+      "id": 2
+    },
+    {
+      "Name": "Dell inspiron",
+      "Quantity": 4,
+      "Price": 50000,
+      "id": 3
+    },
+    {
+      "Name": "vivo",
+      "Quantity": 2,
+      "Price": 15000,
+      "id": 4
+    },
+    {
+      "Name": "realme ",
+      "Quantity": 2,
+      "Price": 25000,
+      "id": 5
+    },
+    {
+      "Name": "hp lightBook",
+      "Quantity": 1,
+      "Price": 49999,
+      "id": 6
+    }
+  ]
+}
